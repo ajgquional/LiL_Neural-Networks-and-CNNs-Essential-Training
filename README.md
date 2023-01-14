@@ -1,5 +1,7 @@
 # Neural Networks and Convolutional Neural Networks Essential Training
 
+![Course image - Neural Netowrks & Convolutional Neural Networks Essential Training with Jonathan Fernandes](https://github.com/ajgquional/LiL_Neural-Networks-and-CNNs-Essential-Training/blob/main/CourseImage.png)
+
 ## Course details
 
 Take a deep dive into neural networks and convolutional neural networks, two key concepts in the area of machine learning. In this hands-on course, instructor Jonathan Fernandes covers fundamental neural and convolutional neural network concepts. Jonathan begins by providing an introduction to the components of neural networks, discussing activation functions and backpropagation. He then looks at convolutional neural networks, explaining why they're particularly good at image recognition tasks. He also steps through how to build a neural network model using Keras. Plus, learn about VGG16, the history of the ImageNet challenge, and more.
@@ -19,56 +21,56 @@ Take a deep dive into neural networks and convolutional neural networks, two key
 ## Chapters of the course
 
 0. Introduction
-   Welcome
-   What you should know
-   Using the exercise files
+   * Welcome
+   * What you should know
+   * Using the exercise files
    
 1. Introduction to Neural Networks
-   Neurons and artificial neurons
-   Gradient descent
-   The XOR challenge and solution
-   Neural networks
-   Chapter quiz
+   * Neurons and artificial neurons
+   * Gradient descent
+   * The XOR challenge and solution
+   * Neural networks
+   * Chapter quiz
    
 2. Components of Neural Networks
-   Activation functions
-   Backpropagation and hyperparameters
-   Neural network visualization
-   Chapter quiz
+   * Activation functions
+   * Backpropagation and hyperparameters
+   * Neural network visualization
+   * Chapter quiz
    
 3. Neural Network Implementation in Keras
-   Understanding the components in Keras
-   Setting up a Microsoft account in Azure
-   Introduction to MNIST
-   Preprocessing the training data
-   Preprocessing the test data
-   Building the Keras model
-   Compiling the neural network model
-   Training the neural network model
-   Accuracy and evaluation of the neural network model
-   Chapter quiz
+   * Understanding the components in Keras
+   * Setting up a Microsoft account in Azure
+   * Introduction to MNIST
+   * Preprocessing the training data
+   * Preprocessing the test data
+   * Building the Keras model
+   * Compiling the neural network model
+   * Training the neural network model
+   * Accuracy and evaluation of the neural network model
+   * Chapter quiz
    
 4. Convolutional Neural Networks
-   Convolutions
-   Zero padding and pooling
-   Chapter quiz
+   * Convolutions
+   * Zero padding and pooling
+   * Chapter quiz
    
 5. Convolutional Neural Networks in Keras
-   Preprocessing and loading of data
-   Creating and compiling the model
-   Training and evaluating the model
+   * Preprocessing and loading of data
+   * Creating and compiling the model
+   * Training and evaluating the model
    
 6. Enhancements to Convolutional Neural Networks (CNNs)
-   Enhancements to CNNs
-   Image augmentation in Keras
-   Chapter quiz
+   * Enhancements to CNNs
+   * Image augmentation in Keras
+   * Chapter quiz
    
 7. ImageNet
-   ImageNet challenge
-   Working with VGG16
+   * ImageNet challenge
+   * Working with VGG16
    
 8. Conclusion
-   Next steps
+   * Next steps
 
 ## Notes about the exercise files:
 
