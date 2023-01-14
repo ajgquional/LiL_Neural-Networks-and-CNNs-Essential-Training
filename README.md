@@ -72,7 +72,7 @@ Take a deep dive into neural networks and convolutional neural networks, two key
 8. Conclusion
    * Next steps
 
-## Notes about the exercise files:
+### Notes about the exercise files:
 
 The files here are organized in that the redundant files in the original exercise files folder have been deleted. Furthermore, huge changes to the original exercise files folder are implemented: 
 * the weights folder needed in Chapter 5 are moved from Chapter 6;
